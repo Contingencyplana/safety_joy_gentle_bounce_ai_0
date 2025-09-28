@@ -22,6 +22,24 @@ Sub-steps inside each Step house the Friends:
 
 ---
 
+### Step 0 — Game Library / Publishing Hub (Not a Hand)
+
+- Create `step_0/`, housing the **Game Library / Publishing UI** for everything on the spectrum:
+  **Tiny Video Games, Wordless Storybooks, and in-between experiments**.
+- Purpose: a colorful, child-friendly **library** that also serves as a light **publishing house**
+  (curation, versions, release notes). It indexes all 7 Hands (C…B) and their Fingers.
+- Browsing model:
+  - Children see **Finger tiles** (no text required).
+  - Parents/creators can unlock each Hand’s **Palm** via a puzzle.
+- Anchor files (text-first, safe for curated zips):
+  - `README.md`, `planning.md` — goals, milestones, roles (library + publishing).
+  - `catalog/` — JSON describing Hands and Fingers; extendable to **works** across the spectrum.
+    - Example seeds: `hands.json`, `step_1.sample.json`, later `works.json`.
+  - `mockups/` — wireframes and design sketches.
+  - `images/` — optional assets (ignored by git).
+  - *(optional, when ready)* `releases/` — lightweight publishing notes (CHANGELOGs, versions).
+- Implementation: **text-first only** at this stage. Later, this can grow into a real website at *morningate.games* and/or a small API that reads the same `catalog/` data.
+
 ### Step 1 — First Hand (Core Bounce Team)
 - Create `step_1/`, housing the **first Hand** (Palm + four Fingers).  
 - Focus: **gentle bounce** and a safe rhythmic pulse.  

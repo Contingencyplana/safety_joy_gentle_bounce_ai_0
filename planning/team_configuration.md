@@ -3,49 +3,78 @@
 ## 🌱 Purpose
 
 This scroll defines the **structural contract** for Step 1 —  
-a **Hand** of Little Friends (Fingers) guided by a single **Palm** (Invisible Friend).  
+a **Hand** of Little Friends (Fingers) guided by a single **Palm** (Invisible Friend).
 
 - **Fingers** = Outer Friends (child-facing, wordless, musical).  
-- **Palm** = Invisible Friend (Inner Mind, team leader, orchestration).  
+- **Palm** = Invisible Friend (Inner Mind, team leader, orchestration).
 
 The Palm leads, protects, and coordinates. The Fingers play, shine, and delight.  
-Together, they move as a **hand**: entering, playing in, and leaving a Tiny Video Game as one.  
+Together, the team moves as a **hand**: enter, play, and leave a Tiny Video Game **as one**.
 
 ---
 
 ## 📂 Folder Layout
 
 ```text
-step_0/                           # UI / Library of Games
-step_1/                           # First Hand of Little Friends
-├── planning.md                   # plan for the whole team (the hand/band)
-├── team_structure.md             # local child of this configuration scroll
-├── step_1_0_puffball/            # Finger 1 (Outer Friend)
-│   ├── story.md                  # wordless storyboard / vibe
-│   ├── assets/                   # images, sounds, sprites
-│   └── config.public.json        # tiny safe knobs (palette, tempo hints)
-├── step_1_1_bloomtail/           # Finger 2 (Outer Friend)
-│   └── (same pattern)
-├── step_1_2_melodybug/           # Finger 3 (Outer Friend)
-│   └── (same pattern)
-├── step_1_3_rippleleaf/          # Finger 4 (Outer Friend)
-│   └── (same pattern)
-└── step_1_4_invisible/           # Palm (Invisible Friend, Inner Mind, Team Leader)
-    ├── planning.md               # inner plan, development log
-    ├── control_nodes/            # one controller per Finger
-    │   ├── puffball_controller.md
-    │   ├── bloomtail_controller.md
-    │   ├── melodybug_controller.md
-    │   └── rippleleaf_controller.md
-    ├── code/                     # orchestration logic
-    │   └── main.py
-    ├── forge/                    # “friend helps make friends”
-    │   ├── mentor_map.json
-    │   ├── recipes/
-    │   └── templates/
-    ├── schema/                   # JSON schemas, data contracts
-    ├── tests/                    # automated checks
-    └── exports/                  # compiled outputs, zips, snapshots
+step_0/                       # Library / Publishing Hub (text-first now; can become a website later)
+step_1/                       # First Hand of Little Friends
+├── README.md                 # overview of this Hand (child-facing names + tone)
+├── planning.md               # plan for the whole Hand (milestones, goals)
+├── team_structure.md         # local child of repo-level planning/team_configuration.md
+├── step_1_0_invisible/       # Palm (Invisible Friend, Inner Mind, Team Leader - puzzle unlocks)
+│   ├── planning.md           # inner plan, development log
+│   ├── control_nodes/        # one controller per Finger
+│   │   ├── puffball_controller.md
+│   │   ├── bloomtail_controller.md
+│   │   ├── melodybug_controller.md
+│   │   └── rippleleaf_controller.md
+│   ├── code/                 # orchestration logic
+│   │   └── main.py
+│   ├── forge/                # “friend helps make friends”
+│   │   ├── mentor_map.json
+│   │   ├── recipes/
+│   │   └── templates/
+│   ├── schema/               # JSON schemas, data contracts
+│   ├── tests/                # automated checks
+│   ├── exports/              # compiled outputs, zips, snapshots
+│   └── README.md             # notes/tools; no child-visible assets
+├── step_1_1_puffball/                  # Finger 1 (Outer Friend)
+│   ├── planning.md
+│   ├── story.md
+│   ├── code.py
+│   ├── json/
+│   │   └── .gitignore        # keep folder, ignore contents
+│   ├── exports/
+│   │   └── .gitignore        # keep folder, ignore contents
+│   └── step_1_1_1/           # core dream node for this Finger
+├── step_1_2_bloomtail/                 # Finger 2 (Outer Friend)
+│   ├── planning.md
+│   ├── story.md
+│   ├── code.py
+│   ├── json/
+│   │   └── .gitignore
+│   ├── exports/
+│   │   └── .gitignore
+│   └── step_1_2_1/
+├── step_1_3_melodybug/                 # Finger 3 (Outer Friend)
+│   ├── planning.md
+│   ├── story.md
+│   ├── code.py
+│   ├── json/
+│   │   └── .gitignore
+│   ├── exports/
+│   │   └── .gitignore
+│   └── step_1_3_1/
+└── step_1_4_rippleleaf/                 # Finger 4 (Outer Friend) 
+    ├── planning.md
+    ├── story.md
+    ├── code.py
+    ├── json/
+    │   └── .gitignore
+    ├── exports/
+    │   └── .gitignore
+    └── step_1_4_1/
+          
 ```
 
 # 🧩 Roles of Each Section
