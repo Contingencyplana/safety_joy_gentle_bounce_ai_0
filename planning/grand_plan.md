@@ -16,15 +16,15 @@ These seven workspaces form the **emotional and architectural foundation**
 for the 21-workspace Creative Ecosystem. Together, they train the "child-GPT"  
 to express itself through color, sound, emotion, and interactive play.
 
-| # | Workspace (repo name)                 | Tone | Theme              | Function |
-|---|---------------------------------------|------|--------------------|----------|
-| 0 | **safety_joy_gentle_bounce_ai_0**     | C    | Safety & Joy       | First Friend: Gentle bounce, rhythm seed |
-| 1 | **curiosity_motion_explore_ai_0**     | D    | Curiosity & Motion | Exploring space, sequence, spatial rhythm |
-| 2 | **color_expression_feelings_ai_0**    | E    | Color & Emotion    | Nonverbal emotional tone painting |
-| 3 | **lullabies_self_reflection_ai_0**    | F    | Rest & Awareness   | Soothing, sustain, inner tone shaping |
-| 4 | **surprise_pattern_play_ai_0**        | G    | Loops & Recursion  | Early motifs, contrast, rhythm games |
-| 5 | **rhythm_dance_groupflow_ai_0**       | A    | Tempo & Harmony    | Collaboration, sync, co-motion |
-| 6 | **mystery_growth_improvise_ai_0**     | B    | Change & Evolution | Improvisation, emerging structures |
+| # | Workspace (repo name)              | Tone | Theme              | Function |
+|---|------------------------------------|------|--------------------|----------|
+| 0 | **safety_joy_gentle_bounce_ai_0**  | C    | Safety & Joy       | First Friend: Gentle bounce, rhythm seed |
+| 1 | **curiosity_motion_explore_ai_0**  | D    | Curiosity & Motion | Exploring space, sequence, spatial rhythm |
+| 2 | **color_expression_feelings_ai_0** | E    | Color & Emotion    | Nonverbal emotional tone painting |
+| 3 | **lullabies_self_reflection_ai_0** | F    | Rest & Awareness   | Soothing, sustain, inner tone shaping |
+| 4 | **surprise_pattern_play_ai_0**     | G    | Loops & Recursion  | Early motifs, contrast, rhythm games |
+| 5 | **rhythm_dance_groupflow_ai_0**    | A    | Tempo & Harmony    | Collaboration, sync, co-motion |
+| 6 | **mystery_growth_improvise_ai_0**  | B    | Change & Evolution | Improvisation, emerging structures |
 
 This octave leads directly into `theory_rhythm_0`, and forms the **mind-heart bridge**  
 between emotional expression and formal musical understanding.
@@ -34,7 +34,7 @@ between emotional expression and formal musical understanding.
 ## The 4 Advanced Octaves and 21 Advanced Workspaces (Master Plan)
 
 | # | Workspace (repo name) | Role (what it owns) | Housed Synergies (inside docs/subsystems) | Primary Outputs / Artifacts |
-|---|-----------------------|---------------------|-------------------------------------------|-----------------------------|
+|---|-----------------------|---------------------|-----------------------|-----------------------|
 | 7 | **theory_rhythm_0** | Teach pulse, meter, subdivision | Tons-of-FUN (groove), Thorn seeding | `json/student.json` (faculties, notes_played) |
 | 8 | **theory_melody_0** | Scales, motifs, contour | Topsy seeding, Brainstorming (improv) | `json/student.json` (+ melody_faculties) |
 | 9 | **theory_harmony_0** | Chords, progressions, voice-leading | Blueprint (structure), Lucid Armada (key travel) | `json/student.json` (+ harmony_faculties) |

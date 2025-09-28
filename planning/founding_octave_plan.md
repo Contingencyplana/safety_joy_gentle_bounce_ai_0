@@ -52,15 +52,15 @@ These 7 workspaces **prepare the child-GPT** to understand:
 
 Eventually these feed into:
 
-| Workspace        | Theme               |
-|------------------|---------------------|
-| music_theory_0   | Notes and Intervals |
-| music_theory_1   | Scales              |
-| music_theory_2   | Chords              |
-| music_theory_3   | Harmony             |
-| music_theory_4   | Rhythm              |
-| music_theory_5   | Composition         |
-| music_theory_6   | Improvisation       |
+| Workspace        | Theme               | Icon Colour |
+|------------------|---------------------|-------------|
+| music_theory_0   | Notes and Intervals | Red         |
+| music_theory_1   | Scales              | Orange      |
+| music_theory_2   | Chords              | Yellow      |
+| music_theory_3   | Harmony             | Green       |
+| music_theory_4   | Rhythm              | Blue        |
+| music_theory_5   | Composition         | Indigo      |
+| music_theory_6   | Improvisation       | Violet      |
 
 ---
 
