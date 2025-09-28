@@ -73,8 +73,7 @@ step_1/                       # First Hand of Little Friends
     │   └── .gitignore
     ├── exports/
     │   └── .gitignore
-    └── step_1_4_1/
-          
+    └── step_1_4_1/       
 ```
 
 # 🧩 Roles of Each Section
