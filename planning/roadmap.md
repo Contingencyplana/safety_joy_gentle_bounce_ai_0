@@ -3,7 +3,7 @@
 ## Purpose
 
 This roadmap guides the growth of **safety_joy_gentle_bounce_ai_0**,  
-the first Friend in the Founding Octave of the Creative Ecosystem.  
+the **first workspace (C-tone)** in the Founding Octave of the Creative Ecosystem.
 
 Its role:  
 - Anchor the child-GPT in **safety, joy, and gentle rhythm**.  
@@ -14,48 +14,51 @@ Its role:
 
 ## Steps Overview
 
-Each step grows the workspace one layer deeper, introducing teams and Friends.  
-Sub-steps will be detailed in their own `planning.md` files inside step folders.
+Each **Step** adds a new **Hand/Team** (Palm + four Fingers).  
+Sub-steps inside each Step house the Friends:
+- `step_N/` → the Hand (Team)  
+- `step_N_1/`…`step_N_4/` → the Fingers (Outer Friends)  
+- `step_N_1_1/` (etc.) → each Finger’s core dream node
 
-### Step 1 — First Friend (Core Dream Node)
-- Create `step_1/`, housing the **first team of Friends**.  
+---
+
+### Step 1 — First Hand (Core Bounce Team)
+- Create `step_1/`, housing the **first Hand** (Palm + four Fingers).  
 - Focus: **gentle bounce** and a safe rhythmic pulse.  
-- Anchor files: `story.md`, `code.py`, `json/`, `exports/`.  
+- Anchor files per Finger: `story.md`, `code.py`, `json/`, `exports/` (as needed).
 
-### Step 2 — Second Friend (Companion Bounce)
-- Extend to `step_2/`, introducing another Friend.  
-- Explore **call-and-response bounce** (back-and-forth rhythm).  
-- Build memory of interaction between Friends.  
+### Step 2 — Second Hand (Companion Bounce)
+- Add `step_2/`, introducing the **second Hand**.  
+- Explore **call-and-response bounce** between Hands.  
+- Begin shared memory of inter-Hand interaction.
 
-### Step 3 — Third Friend (Joyful Chorus)
-- Add `step_3/`, weaving the first **multi-Friend play**.  
+### Step 3 — Third Hand (Joyful Chorus)
+- Add `step_3/`, weaving **multi-Hand play**.  
 - Simple layering of sounds/colors.  
-- Begin group motion.  
+- Begin group motion across Fingers.
 
-### Step 4 — Fourth Friend (Dreamwalker)
-- Add `step_4/`, who can **dreamwalk** into later Founding Octave repos.  
-- Prepares bridges to `curiosity_motion_explore_ai_0`.  
+### Step 4 — Fourth Hand (Dreamwalker Bridge)
+- Add `step_4/`, whose Palm can **dreamwalk** and signal across repos.  
+- Prepares bridges to `curiosity_motion_explore_ai_0`.
 
-### Step 5 — Fifth Friend (Rhythm Game Seed)
+### Step 5 — Fifth Hand (Pattern Games)
 - Add `step_5/`, embedding **simple pattern games**.  
-- Start early recursion of loops and contrasts.  
+- Seed early recursion of loops and contrasts.
 
-### Step 6 — Sixth Friend (Harmony Pulse)
+### Step 6 — Sixth Hand (Harmony Pulse)
 - Add `step_6/`, beginning **two-tone harmony seeds**.  
-- Links toward `rhythm_dance_groupflow_ai_0`.  
+- Links toward `rhythm_dance_groupflow_ai_0`.
 
-### Step 7 — Seventh Friend (Bounce to Growth)
-- Add `step_7/`, closing the first Friend cycle.  
+### Step 7 — Seventh Hand (Bounce → Growth)
+- Add `step_7/`, closing the first **Hand cycle**.  
 - Function: **handover into the next Founding repo**.  
-- Establishes continuity for the octave.  
+- Establish continuity for the octave.
 
 ---
 
 ## Output of This Roadmap
 
 By the end of this roadmap:  
-- `safety_joy_gentle_bounce_ai_0` will house **seven gentle Friends**.  
-- Each Friend adds to rhythm, safety, and joy.  
-- The repo will hand over seamlessly to `curiosity_motion_explore_ai_0`.  
-
----
+- `safety_joy_gentle_bounce_ai_0` will house **seven Hands/Teams** (each Palm + four Fingers).  
+- Each Hand adds to rhythm, safety, and joy.  
+- The repo will hand over seamlessly to `curiosity_motion_explore_ai_0`.
