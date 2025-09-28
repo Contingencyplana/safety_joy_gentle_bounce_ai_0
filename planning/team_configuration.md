@@ -29,7 +29,7 @@ step_1/                           # First Team of Little Friends
 │   └── (same pattern)
 ├── step_1_3_rippleleaf/          # Outer Friend 4
 │   └── (same pattern)
-└── step_1_4_invisible/           # Invisible Friend (Inner Mind, team leader)
+└── step_1_4_invisible/           # Invisible Friend (Inner Mind, Team Leader)
     ├── planning.md               # inner plan, development log
     ├── control_nodes/            # one controller per outer friend
     │   ├── puffball_controller.md
