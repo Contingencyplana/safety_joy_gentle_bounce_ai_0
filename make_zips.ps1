@@ -69,7 +69,12 @@ $textExt = @(
   '.code-workspace','.gitignore','.gitattributes','.csv','.tsv',
   '.toml','.ini','.cfg','.bat','.cmd','.sh','.xml'
 )
-$cleanFiles = $allFiles | Where-Object { $textExt -contains $_.Extension.ToLower() }
+
+# include extensionless files that are common text stubs (e.g. LICENSE, NOTICE)
+$cleanFiles = $allFiles | Where-Object {
+  ($textExt -contains $_.Extension.ToLower()) -or
+  ($_.Extension -eq '' -and ($_.Name -match '^(LICENSE|NOTICE|COPYING|README)$'))
+}
 
 # --- Build clean_latest + rotate one stamped backup ---
 New-ZipSafe -ZipPath $cleanLatest -Files $cleanFiles -BaseDir $repoRoot
