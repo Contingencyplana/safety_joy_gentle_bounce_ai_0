@@ -1,0 +1,10 @@
+{
+  "hand_id": "step_1",
+  "palm_locked": true,
+  "fingers": [
+    { "id": "step_1_1", "name": "Puffball", "emoji": "🫧", "color": "#F6D9FF" },
+    { "id": "step_1_2", "name": "Bloomtail", "emoji": "🌸", "color": "#FFE4B5" },
+    { "id": "step_1_3", "name": "Melodybug", "emoji": "🎵", "color": "#D6F5FF" },
+    { "id": "step_1_4", "name": "Rippleleaf", "emoji": "🍃", "color": "#E6FFD9" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "hands": [
+    { "id": "step_1", "tone": "C", "theme": "Safety & Joy", "name": "First Hand" },
+    { "id": "step_2", "tone": "D", "theme": "Curiosity & Motion", "name": "Second Hand" },
+    { "id": "step_3", "tone": "E", "theme": "Color & Emotion", "name": "Third Hand" },
+    { "id": "step_4", "tone": "F", "theme": "Rest & Awareness", "name": "Fourth Hand" },
+    { "id": "step_5", "tone": "G", "theme": "Loops & Recursion", "name": "Fifth Hand" },
+    { "id": "step_6", "tone": "A", "theme": "Tempo & Harmony", "name": "Sixth Hand" },
+    { "id": "step_7", "tone": "B", "theme": "Change & Evolution", "name": "Seventh Hand" }
+  ]
+}
