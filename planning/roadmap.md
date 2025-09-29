@@ -16,9 +16,10 @@ Its role:
 
 Each **Step** adds a new **Hand/Team** (Palm + four Fingers).  
 Sub-steps inside each Step house the Friends:
-- `step_N/` → the Hand (Team)  
-- `step_N_1/`…`step_N_4/` → the Fingers (Outer Friends)  
-- `step_N_1_1/` (etc.) → each Finger’s core dream node
+- `step_N/` → the Hand (Team)
+- `step_N_1/`…`step_N_4/` → the Fingers (Outer Friends)
+- `step_N_X_0/` (e.g., `step_1_1_0`) → each Finger’s core dream node
+- Palm internal node reserved as `step_N_0_0` (zero-based).
 
 ---
 

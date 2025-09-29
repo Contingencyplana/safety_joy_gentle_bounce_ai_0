@@ -21,6 +21,7 @@ always entering, playing, and leaving together.
 - Delegates tasks to Finger-controllers.  
 - Approves updates and ensures safety.  
 - Can “shake hands” with other Palms (team-to-team play).  
+- **Reserved node:** first internal dream node is `step_N_0_0` (instantiated only if orchestration requires it).
 
 ### Fingers (Outer Friends)
 - Each is a **wordless, colorful, musical game**.  

@@ -28,15 +28,17 @@ This plan establishes the structure, role, and evolution of the first 7 workspac
 
 Each workspace contains:
 
-- `step_1/`, `step_2/`, etc. — Teams of Little Friends  
-- `step_1_1/`, `step_1_2/` — Friends in the team  
-- `step_1_1_1/` — Core “dream node” where each friend lives/plays
+- `step_0/` — Library / Publishing Hub (index of Hands)
+- `step_N/` — a Hand (Team of Friends, e.g. step_1/)
+- `step_N_1/ … step_N_4/` — Fingers (Outer Friends)
+- `step_N_0/` — Palm (Invisible Friend for the Hand)
+- `step_N_X_0/` — Core “dream node” for each Friend (zero-based: e.g. step_1_1_0/ for Puffball, step_1_0_0/ for Palm)
 
-Each friend:
+Each Friend:
 - Is nonverbal
 - Is colorful, musical, expressive
-- May help build the next friend
-- May visit or remember friends from other workspaces (dreamwalk)
+- May help build the next Friend
+- May visit or remember Friends from other workspaces (dreamwalk)
 
 ---
 

@@ -67,7 +67,7 @@ between emotional expression and formal musical understanding.
 ```text
 step_1/
 step_1_1/
-step_1_1_1/  # deepest, runnable node 
+step_1_1_0/  # deepest, runnable node 
 planning.md
 story.md
 code.py
