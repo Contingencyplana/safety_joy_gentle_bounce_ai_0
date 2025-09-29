@@ -24,6 +24,17 @@
         "-Full"
       ],
       "problemMatcher": []
+    },
+    {
+      "label": "Play: Puffball → exports/play.json",
+      "type": "shell",
+      "command": "pwsh",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "python step_1/step_1_1_puffball/code.py | Set-Content step_1/step_1_1_puffball/exports/play.json -Encoding UTF8"
+      ],
+      "problemMatcher": []
     }
   ]
 }
