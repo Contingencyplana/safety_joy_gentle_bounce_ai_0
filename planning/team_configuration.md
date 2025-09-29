@@ -37,6 +37,7 @@ step_1/                       # First Hand of Little Friends
 │   ├── schema/               # JSON schemas, data contracts
 │   ├── tests/                # automated checks
 │   ├── exports/              # compiled outputs, zips, snapshots
+│   ├── step_1_0_0/           # core dream node for Palm
 │   └── README.md             # notes/tools; no child-visible assets
 ├── step_1_1_puffball/                  # Finger 1 (Outer Friend)
 │   ├── planning.md
@@ -46,7 +47,7 @@ step_1/                       # First Hand of Little Friends
 │   │   └── .gitignore        # keep folder, ignore contents
 │   ├── exports/
 │   │   └── .gitignore        # keep folder, ignore contents
-│   └── step_1_1_1/           # core dream node for this Finger
+│   └── step_1_1_0/           # core dream node for this Finger
 ├── step_1_2_bloomtail/                 # Finger 2 (Outer Friend)
 │   ├── planning.md
 │   ├── story.md
@@ -55,7 +56,7 @@ step_1/                       # First Hand of Little Friends
 │   │   └── .gitignore
 │   ├── exports/
 │   │   └── .gitignore
-│   └── step_1_2_1/
+│   └── step_1_2_0/
 ├── step_1_3_melodybug/                 # Finger 3 (Outer Friend)
 │   ├── planning.md
 │   ├── story.md
@@ -64,7 +65,7 @@ step_1/                       # First Hand of Little Friends
 │   │   └── .gitignore
 │   ├── exports/
 │   │   └── .gitignore
-│   └── step_1_3_1/
+│   └── step_1_3_0/
 └── step_1_4_rippleleaf/                 # Finger 4 (Outer Friend) 
     ├── planning.md
     ├── story.md
@@ -73,7 +74,7 @@ step_1/                       # First Hand of Little Friends
     │   └── .gitignore
     ├── exports/
     │   └── .gitignore
-    └── step_1_4_1/       
+    └── step_1_4_0/       
 ```
 
 # 🧩 Roles of Each Section
