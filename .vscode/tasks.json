@@ -68,6 +68,17 @@
         "python step_1/step_1_4_rippleleaf/code.py | Set-Content step_1/step_1_4_rippleleaf/exports/play.json -Encoding UTF8"
       ],
       "problemMatcher": []
+    },
+    {
+      "label": "Palm: Run Rituals (Step 1)",
+      "type": "shell",
+      "command": "pwsh",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy", "Bypass",
+        "-File", "${workspaceFolder}/step_1/step_1_0_invisible/rituals/run.ps1"
+      ],
+      "problemMatcher": []
     }
   ]
 }
