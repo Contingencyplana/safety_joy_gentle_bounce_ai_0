@@ -99,6 +99,6 @@ exports/       # builders only
 - **7 apex repos** (2 makers + 5 synergies) keep the mythos, operations, and joy alive without exploding repo count.  
 - You can **play** and **make** continuously, with clear contracts and zero sprawl.
 
----
+--- 
 
 *Pin this file at the top of your project. Every workspace should point back here as the single source of truth for scope and structure.*
