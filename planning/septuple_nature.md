@@ -30,10 +30,10 @@ Some will remain short; others may one day branch into their own files.
 ---
 
 ## 3. Little Friends and Invisible Friends  
-- Every visible **Outer Friend** is paired with an **Invisible Friend**.  
+- Every **Hand** = a group of **four Outer Friends** (the Fingers, or Outer Mind) paired with one **Invisible Friend** (the Palm, or Inner Mind).  
 - Outer = play surface (children).  
 - Inner = forge, planning, orchestration (parents/creators).  
-- Together they form a **dynamic duo**: playful whole + guiding hand.  
+- Together they move as a **dynamic duo**: playful whole + guiding hand.  
 
 ---
 
