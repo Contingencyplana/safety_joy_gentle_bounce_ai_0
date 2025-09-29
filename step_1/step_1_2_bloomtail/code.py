@@ -1,11 +1,27 @@
 #!/usr/bin/env python3
+# Bloomtail — minimal stub "play" node
+# Prints a tiny JSON event to stdout for tooling to capture.
+
 import json, sys
 
+# Ensure emoji-safe UTF-8 output on Windows consoles
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 payload = {
-  "mtc_schema": "play/1.0.0",
-  "mtc_node": "step_1_2_0",
-  "friend": { "id": "step_1_2_bloomtail", "name": "Bloomtail", "emoji": "🌸" },
-  "event": { "type": "call_response_seed", "tone": "C", "feel": "gentle" }
+    "mtc_schema": "play/1.0.0",
+    "mtc_node":   "step_1_2_0",
+    "friend": {
+        "id": "step_1_2_bloomtail",
+        "name": "Bloomtail",
+        "emoji": "🌸"
+    },
+    "event": {
+        "type": "call_response_seed",
+        "tone": "C",
+        "feel": "gentle"
+    }
 }
 
-json.dump(payload, sys.stdout, ensure_ascii=False, indent=2)
+if __name__ == "__main__":
+    json.dump(payload, sys.stdout, ensure_ascii=False, indent=2)
