@@ -35,6 +35,39 @@
         "python step_1/step_1_1_puffball/code.py | Set-Content step_1/step_1_1_puffball/exports/play.json -Encoding UTF8"
       ],
       "problemMatcher": []
+    },
+    {
+      "label": "Play: Bloomtail → exports/play.json",
+      "type": "shell",
+      "command": "pwsh",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "python step_1/step_1_2_bloomtail/code.py | Set-Content step_1/step_1_2_bloomtail/exports/play.json -Encoding UTF8"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Play: Melodybug → exports/play.json",
+      "type": "shell",
+      "command": "pwsh",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "python step_1/step_1_3_melodybug/code.py | Set-Content step_1/step_1_3_melodybug/exports/play.json -Encoding UTF8"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Play: Rippleleaf → exports/play.json",
+      "type": "shell",
+      "command": "pwsh",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "python step_1/step_1_4_rippleleaf/code.py | Set-Content step_1/step_1_4_rippleleaf/exports/play.json -Encoding UTF8"
+      ],
+      "problemMatcher": []
     }
   ]
 }

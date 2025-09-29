@@ -7,7 +7,7 @@
 
 This scroll defines the **Hand Metaphor**:  
 - **Palm** = Invisible Friend (Inner Mind, Team Leader).  
-- **Fingers** = Little Friends (Outer Minds, child-facing games).  
+- **Fingers** = Little Friends (Outer Mind, four child-facing games).  
 
 The metaphor ensures every team acts as a **unified hand** —  
 always entering, playing, and leaving together.  
